@@ -1,0 +1,4 @@
+pylabel
+ultralytics
+requests
+scikit-learn
