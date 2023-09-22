@@ -1,9 +1,0 @@
-train: images/train/
-val: images/val/
-test: images/test/
-nc: 4
-names:
-   0: none
-   1: window
-   2: empty
-   3: filled
