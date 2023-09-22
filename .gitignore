@@ -1,4 +1,7 @@
 # created by virtualenv automatically
 /venv/
 .idea
-
+/dataset/
+Experiments.ipynb
+Experiments-checkpoints.ipynb
+logs.log

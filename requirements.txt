@@ -1,4 +1,8 @@
-pylabel
-ultralytics
-requests
-scikit-learn
+pylabel~=0.1.53
+ultralytics~=8.0.184
+requests~=2.31.0
+scikit-learn~=1.3.1
+pandas~=2.1.1
+numpy~=1.25.2
+Pillow~=10.0.1
+numba~=0.58.0
