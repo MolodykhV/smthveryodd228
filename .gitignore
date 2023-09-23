@@ -5,3 +5,10 @@
 Experiments.ipynb
 Experiments-checkpoints.ipynb
 logs.log
+__pycache__
+output
+runs
+.ipynb_checkpoints
+train_model.py
+test_images
+.DS_Store

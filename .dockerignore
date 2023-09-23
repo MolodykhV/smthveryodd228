@@ -1,0 +1,13 @@
+.idea
+.gitignore
+.ipynb_checkpoints
+logs.log
+Experiments.ipynb
+train_model.py
+dataset
+runs
+test_images
+/venv/
+Experiments-checkpoints.ipynb
+__pycache__
+.DS_Store
